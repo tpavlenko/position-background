@@ -1,0 +1,7 @@
+body {
+	margin: 0;
+}
+.container {
+	height: 100vh;
+	background: url(../img/cloud.png) top 50px center / auto 200px repeat-x, url(../img/grass.png) bottom / auto 150px repeat-x, url(../img/sun.png) top right no-repeat, url(../img/flower.png) bottom 35% right 40% / auto 100px no-repeat, url(../img/deer.png) bottom / auto 500px no-repeat, url(../img/tree.png) bottom left / auto 600px no-repeat, url(../img/birds.png) top 40% right / auto 250px no-repeat, url(../img/house.png) bottom right / auto 300px no-repeat, #f5fcff;
+}
